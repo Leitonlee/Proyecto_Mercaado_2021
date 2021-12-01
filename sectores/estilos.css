@@ -1,0 +1,17 @@
+.bodyIndex{
+    background-color: #b6b7c4;
+}
+.card-body{
+    background-color: #81d4e9;
+    margin-left: 10mm;
+    margin-top: 50mm;
+}
+.card{
+    background-color: #81d4e9;
+    margin-left: 10mm;
+    margin-top: 50mm;
+}
+.alert-alert-danger{
+    margin-left: 10mm;
+    margin-right: 10mm;
+}
